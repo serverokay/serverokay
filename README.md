@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @serverokay
-- 👀 I’m interested in NodeJS,React,PHP,Laravel etc
+- 👀 I’m interested in NodeJS, React, PHP,Laravel etc
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on Laravel
 - 📫 How to reach me ...
